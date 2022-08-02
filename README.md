@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Trisha
 #### Web developer
-![Web developer](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/278238545_1118955348884535_8853132351871233030_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGEDGbONCCPjT3Z0utauU-CSkVIo9t3U1NKRUij23dTU8fqShj6Dymvy-C8oXUL_5idSvFblqeF754uyrskQgQv&_nc_ohc=vBij6-H6mYkAX93Scjv&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT9bLaVv6ifpl4-GETaOgRb7Gt7gsUZ0FnIvv2YUzeNi_Q&oe=62EEA12E)
+![Web developer](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/287016210_1158455558267847_5327352244908213300_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFr5elPe2HNfxNnNtKZAsjjkgXbZTiQsdiSBdtlOJCx2OKdstkl53B8DxcsLA5fU35n5k-iiWVFw8B59aatuGo9&_nc_ohc=9P7biZ55q5cAX-1BYRY&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT_DljgGaAIojIT1Gj3_wKlGWrcYI6Y3BnC7nby3vc4sVA&oe=62EE6A04)
 
 I am a front-end developer who is passionate about making website.  Basically I have a passion for learning and sharing my knowledge with others.I love to solve real world problems. I enjoy woking with include React, Javascript, Python.
 
