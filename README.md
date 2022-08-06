@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Trisha
 #### Web developer
-![Web developer](https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/287016210_1158455558267847_5327352244908213300_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFr5elPe2HNfxNnNtKZAsjjkgXbZTiQsdiSBdtlOJCx2OKdstkl53B8DxcsLA5fU35n5k-iiWVFw8B59aatuGo9&_nc_ohc=9P7biZ55q5cAX-1BYRY&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AT_DljgGaAIojIT1Gj3_wKlGWrcYI6Y3BnC7nby3vc4sVA&oe=62EE6A04)
-
+![Web developer]
 I am a front-end developer who is passionate about making website.  Basically I have a passion for learning and sharing my knowledge with others.I love to solve real world problems. I enjoy woking with include React, Javascript, Python.
 
 Skills: PYTHON/NODE / REACT / JS / HTML / CSS
