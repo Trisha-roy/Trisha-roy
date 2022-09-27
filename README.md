@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Trisha
 #### Web developer
 ![Web developer]
-I am a front-end developer who is passionate about making website.  Basically I have a passion for learning and sharing my knowledge with others.I love to solve real world problems. I enjoy woking with include React, Javascript, Python.
 
 Skills: PYTHON/NODE / REACT / JS / HTML / CSS
 
@@ -12,7 +11,6 @@ Skills: PYTHON/NODE / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Trisha-roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Trisha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Trisha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/TRISHA/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Trisha)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trisha-roy)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trisha-roy)](https://github.com/anuraghazra/github-readme-stats)
 
