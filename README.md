@@ -14,8 +14,3 @@ Skills: PYTHON/NODE / REACT / JS / HTML / CSS
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/Trisha-roy)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Trisha-roy)  
-
-![Profile views](https://gpvc.arturio.dev/Trisha-roy)  
